@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Myeongjung.Myeongjung)
 [![Github](https://img.shields.io/github/followers/Myeongjung?label=Followers&logo=Github)](https://github.com/Myeongjung)
-<img align="right" width=40% src="https://github.com/Myeongjung/Myeongjung/blob/main/img.png"/>
+<img align="right" width=35% src="https://github.com/Myeongjung/Myeongjung/blob/main/img.png"/>
 
 - 🔭 I’m currently working on Time-series forecasting
 - 🌱 I’m currently learning and building a data pipeline
