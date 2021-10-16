@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Myeongjung.Myeongjung)
 [![Github](https://img.shields.io/github/followers/Myeongjung?label=Followers&logo=Github)](https://github.com/Myeongjung)
+<img align="right" src="https://github.com/Myeongjung/Myeongjung/blob/main/img.png"/>
 
 - 🔭 I’m currently working on Time-series forecasting
 - 🌱 I’m currently learning and building a data pipeline
 - 💬 Ask me if you have any questions: 📫[E-mail](mailto:92mj.park@gmail.com)
 
-<img align="right" height="150rem" src="https://github.com/Myeongjung/Myeongjung/blob/main/img.png"/>
+
 <!--## Skills
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">-->
 
