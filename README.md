@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and building a data pipeline
 - 💬 Ask me if you have any questions: 📫[E-mail](mailto:92mj.park@gmail.com)
 
-## Skills
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<!--## Skills
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">-->
 
 ## :trophy: My Github Stats
 <div>
