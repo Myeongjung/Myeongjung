@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=Myeongjung&show_icons=true&theme=dark&layout=compact">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Myeongjung&show_icons=true&theme=dark&layout=compact"/>
-  </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Myeongjung&show_icons=true&theme=dark&layout=compact">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myeongjung&show_icons=true&theme=dark&layout=compact"/>
-  </a>
+  </a>  </a>
 </div>
