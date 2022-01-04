@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" width=35% src="https://github.com/Myeongjung/Myeongjung/blob/main/img.png"/>
 
 - 🔭 I’m currently working on Time-series forecasting
-- 🤔 I’m looking for help with getting insight of a Time-series forecasting
+- 🤔 I’m looking for help with getting insight of a Time-series forecasting and Tableau
 <!-- - 🌱 I’m currently learning and building a data pipeline -->
 - 💬 Ask me if you have any questions: 📫[E-mail](mailto:92mj.park@gmail.com)
 
