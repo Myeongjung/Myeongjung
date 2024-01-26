@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/Myeongjung?label=Followers&logo=Github)](https://github.com/Myeongjung)
 <img align="right" width=35% src="https://github.com/Myeongjung/Myeongjung/blob/main/img.png"/>
 
-- 🔭 I’m currently working on Time-series forecasting and Tableau
-- 🤔 I’m looking for help with getting insight of a Time-series forecasting
+- 🔭 I’m currently developing machine learning solutions for AdTech, focusing on enhancing user engagement and optimizing ad performance through predictive analytics and personalized content delivery.
+- 🤔 I’m seeking insights and collaboration on complex ML challenges, particularly in areas of model scalability, algorithm efficiency, and data privacy, to drive innovation in advertising technologies.
 <!-- - 🌱 I’m currently learning and building a data pipeline -->
 - 💬 Ask me if you have any questions: 📫[E-mail](mailto:92mj.park@gmail.com)
 
